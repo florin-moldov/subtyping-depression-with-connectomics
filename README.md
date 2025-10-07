@@ -1,2 +1,2 @@
-# subtyping-depression-with-connectomics
+# subtyping-depression-using-connectomics
 
